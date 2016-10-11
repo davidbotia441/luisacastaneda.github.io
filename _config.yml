@@ -1,7 +1,7 @@
 title: Luisa Castañeda 
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: https://luisacastaneda.github.com/
+url: https://luisacastaneda.github.io/
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -20,9 +20,9 @@ navigation:
    url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   github: luisacastaneda
+   twitter: Luisacastaneda
+   facebook: luisacastaneda
+   email: luisacastaneda1@gmail.com
 
 google_analytics: "UA-58263416-1"
